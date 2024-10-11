@@ -1,7 +1,6 @@
 {
   "name": "react-contries",
   "private": true,
-  "homepage": "https://javieravv.github.io/contries-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
